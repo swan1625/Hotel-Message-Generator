@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "messageType": "Check In"
+    },
+    {
+      "id": 2,
+      "messageType": "Check Out"
+    },
+    {
+      "id": 3,
+      "messageType": "Room Service"
+    }
+]
